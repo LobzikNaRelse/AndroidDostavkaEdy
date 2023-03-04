@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "912009344498",
+    "project_id": "dostavkaedu-d06a6",
+    "storage_bucket": "dostavkaedu-d06a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912009344498:android:797aa10fc8e0cb521be76b",
+        "android_client_info": {
+          "package_name": "com.example.dostavkaedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912009344498-bndrc2krcfs26t3sst9s2a9m126ul1fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dostavkaedu",
+            "certificate_hash": "0317953703d21151e214b8c2dc553dddb5f6a6e7"
+          }
+        },
+        {
+          "client_id": "912009344498-edflrjrdfbiv61rcf8b31nf7dfiovv6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJgE4lGTHN8mMp8pKV7eaF5D7k5hgYco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912009344498-edflrjrdfbiv61rcf8b31nf7dfiovv6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

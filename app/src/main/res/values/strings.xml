@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DostavkaEdu</string>
+    <string name="txtSlogan">КУшайте вкусно там то</string>
+    <string name="register">Регистрация</string>
+    <string name="auth">Авторизация</string>
+    <string name="hintPhone">Номер телефона</string>
+    <string name="hintPassword">Пароль</string>
+    <string name="authUser">Войти</string>
+    <string name="hintName">Введите Имя</string>
+    <string name="addToCard">Добавить в корзину</string>
+</resources>
